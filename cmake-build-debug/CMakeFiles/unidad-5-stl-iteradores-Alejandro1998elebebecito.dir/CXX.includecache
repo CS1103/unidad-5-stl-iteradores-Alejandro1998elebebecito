@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/ArithProgression.h
+
+C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/GeoProgression.h
+math.h
+-
+
+C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/main.cpp
+iostream
+-
+ArithProgression.h
+C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/ArithProgression.h
+GeoProgression.h
+C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/GeoProgression.h
+

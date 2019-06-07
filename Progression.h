@@ -16,40 +16,6 @@ public:
     virtual long nextValue() = 0;
 };
 
-//////Arith Progression Iterator/////
-class ArithProgression_iterator {
-    int curr;
-    int step;
-    friend class ArithProgression;
-    range_iterator(int curr, int step):
-            curr{curr}, step{step} {}
-public:
-    bool operator==(const range_iterator& other) const;
-    bool operator!=(const range_iterator& other) const;
-    int& operator*();
-    range_iterator& operator++();
-    range_iterator& operator++(int);
-};
-class ArithProgression
-{
-    long int start;
-    long int stop;
-    long int step;
-public:
-    ArithProgression(int stop):start{0}, stop{stop}, step{1} {}
-    ArithProgression(int start, int stop):start{start},
-                               stop{stop}, step{1} {}
-    ArithProgression(int start, int stop, int step):start{start},
-                                         stop{stop}, step{step} {}
-    using iterator = ArithProgression_iterator;
-    iterator begin() const {
-        return ArithProgression::iterator(start, step);
-    }
-
-    iterator end() const {
-        return ArithProgression::iterator(stop, step);
-    }
-};
 ///////////////////////GEO PROGRESSION//////
 class GeoProgression
 {
