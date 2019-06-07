@@ -42,7 +42,7 @@ bool FibonacciProgression_iterator::operator==(const FibonacciProgression_iterat
 }
 
 bool FibonacciProgression_iterator::operator!=(const FibonacciProgression_iterator &other) const {
-    return curr < other.curr;
+    return step < other.curr;
 }
 
 int &FibonacciProgression_iterator::operator*() {
