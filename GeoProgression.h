@@ -42,7 +42,7 @@ bool GeoProgression_iterator::operator==(const GeoProgression_iterator &other) c
 }
 
 bool GeoProgression_iterator::operator!=(const GeoProgression_iterator &other) const {
-    return curr < other.curr;
+    return curr < other.curr*base;
 }
 
 int &GeoProgression_iterator::operator*() {

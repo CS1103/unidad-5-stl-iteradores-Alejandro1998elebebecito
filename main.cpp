@@ -1,6 +1,6 @@
 //
 // Created by albin on 05/06/2019.
-//
+//ALUMNO ALEJANDRO MAMANI ANDIA// USER:ALEJANDRO1998ELEBEBECITO
 #include <iostream>
 #include "ArithProgression.h"
 #include "GeoProgression.h"
