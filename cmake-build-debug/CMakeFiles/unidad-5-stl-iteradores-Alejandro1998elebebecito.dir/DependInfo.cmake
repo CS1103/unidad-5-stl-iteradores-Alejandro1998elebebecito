@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/main.cpp" "C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/unidad-5-stl-iteradores-Alejandro1998elebebecito.dir/main.cpp.obj"
+  "C:/Users/albin/Documents/GitHub/POO2/unidad-5-stl-iteradores-Alejandro1998elebebecito/main.cpp" "C:/Users/albin/Documents/GitHub/POO2/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/unidad-5-stl-iteradores-Alejandro1998elebebecito.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

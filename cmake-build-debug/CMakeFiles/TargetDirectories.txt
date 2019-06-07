@@ -1,3 +1,3 @@
-C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/unidad-5-stl-iteradores-Alejandro1998elebebecito.dir
-C:/Users/albin/Documents/GitHub/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/albin/Documents/GitHub/POO2/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/albin/Documents/GitHub/POO2/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/unidad-5-stl-iteradores-Alejandro1998elebebecito.dir
+C:/Users/albin/Documents/GitHub/POO2/unidad-5-stl-iteradores-Alejandro1998elebebecito/cmake-build-debug/CMakeFiles/rebuild_cache.dir

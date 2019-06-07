@@ -16,23 +16,6 @@ public:
     virtual long nextValue() = 0;
 };
 
-///////////////////////GEO PROGRESSION//////
-class GeoProgression
-{
-    long base;
-public:
-    GeoProgression();
-    GeoProgression(long base);
-    long nextValue();
-};
 
-class FibonacciProgression
-{
-    long prev;
-public:
-    FibonacciProgression();
-    FibonacciProgression(long prev, long first);
-    long nextValue();S
-};
 
 #endif //UNIDAD_5_STL_ITERADORES_ALEJANDRO1998ELEBEBECITO_PROGRESSION_H
